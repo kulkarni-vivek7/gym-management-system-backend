@@ -24,13 +24,13 @@ I have used various AI tools to improve the functionality and user experience of
 * **Add Trainer** - Admin Can Add Trainer Details in the database.
 * **View Trainer Details** - Admin Can Search And View All Trainer Details.
 * **Update Trainer** - Admin Can Update Trainer Details.
-* **Delete Trainer** - Admin Can Delete Trainer Details.
+* **Delete Trainer** - Admin Can Delete Inactive Trainer Details.
 * **Add Membership** - Admin Can Add Membership Details in the database.
 * **View Membership Details** - Admin Can Search And View All Membership Details.
 * **Update Membership** - Admin Can Update Membership Details.
-* **Delete Membership** - Admin Can Delete Membership Details.
+* **Delete Membership** - Admin Can Delete Inactive Membership Details.
 * **Add Member** - Admin Can Add Member Details in the database.
 * **View Member Details** - Admin Can Search And View All Member Details.
 * **Update Member** - Admin Can Update Member Details.
-* **Delete Member** - Admin Can Delete Member Details.
+* **Delete Member** - Admin Can Delete Inactive Member Details.
 * **View All Registered Members** - Trainer Can View All the Members Details who are registered with him/her.
